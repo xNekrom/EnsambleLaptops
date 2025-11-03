@@ -1,5 +1,8 @@
 /* 1. Importa la base y utilidades de Tailwind CSS */
 @import 'tailwindcss';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 /* ================================================= */
 /* === NUESTROS ESTILOS PERSONALIZADOS VAN AQUÍ === */
